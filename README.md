@@ -7,3 +7,5 @@ My progress through Harvardx CS50 Introduction to Artificial Intelligence with P
 |   2   | [Uncertainty](2.Uncertainty/)   |   [heredity](2.Uncertainty/heredity/) <br> [pagerank](2.Uncertainty/pagerank/)    |
 |   3   | [Optimization](3.Optimization/)   |   [crossword](3.Optimization/crossword/)  |
 |   4   | [Learning](4.Learning/)   |   [nim](4.Learning/nim/) <br> [shopping](4.Learning/shopping/)    |
+|   5   | [Neural Networks](5.NeuralNetworks/)   |   [traffic](5.NeuralNetworks/traffic/) |
+|   6   | [Language](6.Language/)   |   [parser](6.Language/parser/) <br> [questions](6.Language/questions/)    |
